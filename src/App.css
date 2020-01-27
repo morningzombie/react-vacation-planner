@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.createButton{
+  width:90%;
+  height:3rem;
+  font-size:2rem;
+  margin:15px;
+  text-align: center;
+}
+.startBox,.endBox{
+  display:flex;
+  width:90%;
+  height: 3rem;
+  margin:15px;
+}
+
+.start, .end {margin-left:15px;}
+
+.delete{
+  float: right;
+  margin-right:15px;
+  height:3rem;
+}
